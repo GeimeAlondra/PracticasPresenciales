@@ -22,7 +22,7 @@ print("El resultado de la multiplicacion es: "+ str(multiplicacion))
 
 print("")
 
-print("Division: ")
+print("Division normal: ")
 n1 = 12
 n2 = 4
 division = n1 / n2
@@ -33,8 +33,8 @@ print("")
 print("Exponente: ")
 n1 = 5
 n2 = 4
-suma = n1 + n2
-print("El resultado de la suma es: "+ str(suma))
+exponente = n1 * n2
+print("El resultado del exponente es: "+ str(exponente))
 
 print("")
 
@@ -50,4 +50,4 @@ print("Modulo: ")
 n1 = 5
 n2 = 4
 modulo = n1 % n2
-print("El resultado de la suma es: "+ str(modulo))
+print("El resultado del modulo es: "+ str(modulo))
