@@ -29,7 +29,7 @@ x -= 1
 
 print('El valor final de la variable x es: ', x)
 
-print('Otras asignaciones con operadores diferentes')
+print('\nOtras asignaciones con operadores diferentes')
 
 x *= 3
 
